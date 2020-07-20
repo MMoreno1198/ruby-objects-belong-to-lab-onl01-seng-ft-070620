@@ -7,6 +7,9 @@ class Artist
   @Artist = artist
   
 end
+
+song.artist.name
+
 end
   
   
